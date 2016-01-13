@@ -1,3 +1,4 @@
 # hello-world
-First ever
+First ever.
 Learning to code on a very slow computer
+Trying this again
